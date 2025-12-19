@@ -9,7 +9,7 @@ import os
 # Load environment variables from .env file
 load_dotenv()
 
-API_ID="26658182
+API_ID="26658182"
 API_HASH="d3cdbdb3b81014c71ec60ed03d2b4d8f"
 
 BOT_TOKEN_1="8214532706:AAF5S1gRvrROjXK-V8JwZ0peFCuau_cP794"   # Replace with actual token
