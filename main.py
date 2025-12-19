@@ -9,11 +9,11 @@ import os
 # Load environment variables from .env file
 load_dotenv()
 
-API_ID="16457832"
-API_HASH="3030874d0befdb5d05597deacc3e83ab"
+API_ID="26658182
+API_HASH="d3cdbdb3b81014c71ec60ed03d2b4d8f"
 
-BOT_TOKEN_1="7581171239:AAG99QESgSiKQuV2vizw4wHF1WypJjoN5Ik"   # Replace with actual token
-BOT_TOKEN_2="7756406698:AAHdNxkWNc9beej769fJI5wtGf31J619N6Q"   # Optional: Add more tokens
+BOT_TOKEN_1="8214532706:AAF5S1gRvrROjXK-V8JwZ0peFCuau_cP794"   # Replace with actual token
+BOT_TOKEN_2="8503451190:AAE55P8BhzekHNVAiiF1w_wQ9NaZ8hDFvCI"   # Optional: Add more tokens
 
 
 
